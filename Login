@@ -1,0 +1,12 @@
+{
+  "appName": "XRecorder Pro",
+  "version": "2.5.4.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4hltvst",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
