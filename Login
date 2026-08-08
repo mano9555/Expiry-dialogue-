@@ -1,5 +1,5 @@
 {
-  "appName": "XRecorder Pro",
+  "appName": "EVIL X MODS",
   "version": "0",
   "forceUpdate": false,
   "updateUrl": "https://bit.ly/4hltvst",
