@@ -1,12 +1,12 @@
 {
-  "appName": "EVIL X MODS OFFICIAL",
-  "version": "0",
+  "appName": "EVIL X MODS",
+  "version": "2.5.4.1",
   "forceUpdate": false,
   "updateUrl": "https://bit.ly/4hltvst",
   "btnUpdateText": "UPDATE NOW",
   "btnExitText": "EXIT",
- "changelog": [
- "Version Pro Desbloqueado",
- "Sin anuncios"
- ]
+  "changelog": [
+    "Version Pro Desbloqueado",
+    "Sin anuncios"
+  ]
 }
