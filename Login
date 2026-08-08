@@ -1,5 +1,5 @@
 {
-  "appName": "EVIL X MODS",
+  "appName": "EVIL X MODS OFFICIAL",
   "version": "0",
   "forceUpdate": false,
   "updateUrl": "https://bit.ly/4hltvst",
