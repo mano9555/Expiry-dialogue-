@@ -1,6 +1,6 @@
 {
   "appName": "EVIL X MODS",
-  "version": "1.9.9.9",
+  "version": "1.9.9.8",
   "forceUpdate": false,
   "updateUrl": "https://bit.ly/4hltvst",
   "btnUpdateText": "UPDATE NOW",
